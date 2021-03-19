@@ -4,7 +4,7 @@
   "tree": {
     "\u8D44\u4EA7": {
       "\u4E34\u65F6\u5F00\u8D26": {
-        "Temporary Opening":{
+        "\u4e34\u65f6\u5f00\u7968":{
           "account_type":"Temporary"
         },
         "account_type": "Temporary"
@@ -254,19 +254,19 @@
         "account_number": "1811"
       },
       "\u72EC\u7ACB\u8D26\u6237\u8D44\u4EA7": {
-        "account_number": "1821"
+        "account_number": "1812"
       },
       "\u5F85\u5904\u7406\u8D22\u4EA7\u635F\u6EA2": {
         "account_number": "1901"
       }
     },
     "\u8D1F\u503A": {
-      "Stock Received But Not Billed": {
-        "account_type": "Stock Received But Not Billed"
-      },
       "account_number": "2",
       "root_type": "Liability",
       "is_group": "1",
+      "\u5df2\u6536\u5230\uff0c\u4f46\u672a\u5f00\u7968": {
+        "account_type": "Stock Received But Not Billed"
+      },
       "\u77ED\u671F\u501F\u6B3E": {
         "account_number": "2001"
       },
@@ -547,7 +547,7 @@
         "account_number": "4201"
       }
     },
-    "\u8CBB\u7528": {
+    "\u8d39\u7528": {
       "account_number": "5",
       "root_type": "Expense",
       "is_group": "1",
